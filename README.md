@@ -5,7 +5,7 @@ To become a senior backend software engineer, you need to build a solid foundati
    - **Basic Concepts**: Focus on variables, data types, control structures (if-else, loops), functions, and object-oriented programming (OOP) concepts such as classes, inheritance, and polymorphism.
    - **Version Control**: Learn how to use Git and GitHub for code management and collaboration.
 
-### **2. Master Data Structures and Algorithms**
+### **2.** [**Master Data Structures and Algorithms**](https://github.com/readul-islam/DSA_C_Plus_Plus)
    - **Data Structures**: Arrays, linked lists, stacks, queues, hash tables, trees (binary, AVL, B+), graphs.
    - **Algorithms**: Sorting algorithms (quick sort, merge sort), searching algorithms, dynamic programming, greedy algorithms, recursion.
    - **Practice**: Regularly solve coding problems on platforms like LeetCode, HackerRank, or Codewars.
